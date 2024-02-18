@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    padding-top: 4rem;
+}
+#med-btn{
+    width: 15.5rem;
+    height: 5rem;
+    background-color: blue;
+    font-size: 0.8rem;
+    color: white;
+}
+#title button:hover{
+    background-color: green;
+    
+}
+
+h1{
+    font-size: 5rem;
+    padding-bottom: 1rem;
+    font-weight:900;
+    letter-spacing: -6px;
+
+}
+p{
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
